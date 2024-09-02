@@ -1,4 +1,3 @@
-import sys
 from transformers import pipeline
 
 def run_sa():
