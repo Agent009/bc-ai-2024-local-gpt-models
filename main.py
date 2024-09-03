@@ -1,6 +1,7 @@
 #import sys
 #from lib.sentiment import run_sa
-from lib.generation import run_gt
+#from lib.generation import run_gt
+from lib.local import run_local
 
 # ---------- Main script
 if __name__ == '__main__':
@@ -8,4 +9,7 @@ if __name__ == '__main__':
     #run_sa()
 
     # ---------- Text generation
-    run_gt()
+    #run_gt()
+
+    # ---------- Local completions API
+    run_local()

@@ -1,0 +1,24 @@
+### POST request to local completions API from text-generation-webui for Encode AI BC 2024
+# curl http://127.0.0.1:5000/v1/completions
+#  -H "Content-Type: application/json"
+#  -d '{
+#    "prompt": "This is a cake recipe:\n\n1.",
+#    "max_tokens": 200,
+#    "temperature": 1,
+#    "top_p": 0.9
+#  }'
+POST http://127.0.0.1:5000/v1/completions
+Content-Type: application/json
+
+{
+  "prompt": "This is a cake recipe:nn1.",
+  "max_tokens": 50,
+  "temperature": 1,
+  "top_p": 0.9
+}
+
+###
+
+
+
+###
