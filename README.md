@@ -7,6 +7,8 @@
 * [Lesson-09 / exercises / 02-Text-Generation.md](https://github.com/Encode-Club-AI-Bootcamp/Generative-AI-Applications/blob/main/Lesson-09/exercises/02-Text-Generation.md)
 * [Lesson-09 / exercises / 03-GPT-Text-Generation-Extended.md](https://github.com/Encode-Club-AI-Bootcamp/Generative-AI-Applications/blob/main/Lesson-09/exercises/03-GPT-Text-Generation-Extended.md)
 * [Lesson-09](https://github.com/Encode-Club-AI-Bootcamp/Generative-AI-Applications/tree/main/Lesson-09)
+* [Lesson-11](https://github.com/Encode-Club-AI-Bootcamp/Generative-AI-Applications/tree/main/Lesson-11)
+* [Lesson-11 / exercises / 04-Using-API.md](https://github.com/Encode-Club-AI-Bootcamp/Generative-AI-Applications/tree/main/Lesson-11/exercises/04-Using-API.md)
 
 ## Setup
 
