@@ -1,5 +1,9 @@
-# Encode_AI-and-GPT-Bootcamp-Q3-2024
+# Interacting with Local AI GPT Models
 
+* Hugging Face's Transformers
+* Sentiment Analysis pipeline
+* Role-Based Text Generation
+* Integrating with local Text Generation WebUI API
 
 ## Instructions / README
 * [Lesson-09 / exercises / 00-Install-Transformers.md](https://github.com/Encode-Club-AI-Bootcamp/Generative-AI-Applications/blob/main/Lesson-09/exercises/00-Install-Transformers.md)
